@@ -1,2 +1,3 @@
-On step 4 currently...
-    Just finished the delete part, next is "UPDATING COURSE DETAILS"
+Full stack app works locally... deployed to heroku but will crash because database isn't set up properly (I think)
+
+Also... apparently the react front end folder is configured as a git root, might cause problems later?
